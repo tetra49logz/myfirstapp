@@ -15,13 +15,14 @@
 <body>
 <table border="3" cellpadding="8">
 	<tr>
-		<th>bus id</th>
-		<th>bus name</th>
-		<th>bus arrival</th>
-		<th>bus departure</th>
-		<th>bus date</th>
-		<th>bus Number</th>
-		<th>bus Ticket Rate</th>
+		<th>Id</th>
+		<th>Name</th>
+		<th>Arrival</th>
+		<th>Departure</th>
+		<th>Date</th>
+		<th>Number</th>
+		<th>Ticket Rate</th>
+		<th>Book Bus</th>
 	</tr>
 		<%
 			String routeCode = request.getParameter("from")+request.getParameter("to");
@@ -42,6 +43,7 @@
 				<td><%= rs.getString(6) %></td>
 				<td><%= rs.getString(7) %></td>
 				<td><%= rs.getString(8) %></td>
+				<td><input type='button' value='Book Bus'/></td>
 			</tr>
 		<%
 			}

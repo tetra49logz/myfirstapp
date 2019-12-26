@@ -4,12 +4,7 @@
 	margin: 150px auto;
 	padding: 20px;
 	width: 50%;
-}
-
-.center {
-	align-content: center;
-  border: 3px solid blue;
-  padding: 10px;
+	border: 3px solid blue;
 }
 
 .home {
@@ -21,7 +16,7 @@
 	width: 972px;
     text-align: center;
     margin: auto;
-    margin-top: 250px;
+    margin-top: 200px;
 }
 
 #site_name {
@@ -32,9 +27,9 @@
 
 .header {
 	background-color: #ff6f69;
-    	height: 60px;
+    height: 60px;
   	position: absolute;
   	width: 100%;
-  	padding: 0;
+  	padding: 0px;
   	margin: 0;
  }

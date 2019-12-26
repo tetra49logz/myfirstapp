@@ -8,7 +8,7 @@
 <title>Login Page</title>
 </head>
 
-<body class="container">
+<body class="home">
 	<%
 	String email=(String)session.getAttribute("email");
     
@@ -29,12 +29,15 @@
     	else
     	{
     		out.print("<h1>Some error occurred!</h1>");
-    	}
+    	}	
     }
 	%>
+	<div class="header">
+			<h1 id="site_name">E-Ticket Booking</h1>
+	</div>
 	
 	<h1>Enter Login Details</h1>
-	<div align="center" class="center">
+	<div align="center" class="container">
 		<form action="loginHandler.jsp" method="post">
             <table cellpadding="8">
             
