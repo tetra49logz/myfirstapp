@@ -7,6 +7,34 @@
 }
 
 .center {
+	align-content: center;
   border: 3px solid blue;
   padding: 10px;
 }
+
+.home {
+    margin: 0px;
+}
+
+#search {
+	font-family: Montserrat;
+	width: 972px;
+    text-align: center;
+    margin: auto;
+    margin-top: 250px;
+}
+
+#site_name {
+	margin-top: 10px;
+	margin-left: 10px;
+	color: white;
+}
+
+.header {
+	background-color: #ff6f69;
+    	height: 60px;
+  	position: absolute;
+  	width: 100%;
+  	padding: 0;
+  	margin: 0;
+ }

@@ -3,10 +3,11 @@
 <!DOCTYPE html>
 <html>
 <head>
+<link rel="stylesheet" type="text/css" href="bootstrap.css">
 <meta charset="ISO-8859-1">
 <title>Select Bus</title>
 </head>
-<body>
+<body class="home">
 	 
 	 <%
 	 	String email=(String)session.getAttribute("email");
@@ -17,11 +18,10 @@
         	response.sendRedirect("login.jsp");
         }
      %>
-     
-      <p>Welcome <%=email%></p>  
-      
-      <h1>E-Ticket Booking</h1>
-		<section>
+    <div class="header">
+      <h1 id="site_name">E-Ticket Booking</h1>
+      <p align="center">Welcome <%=email%></p>  
+		<section id="search">
 		<form action="searchBus.jsp">
 			<fieldset>
 				<label>Trip Info</label>
@@ -46,6 +46,7 @@
 		</form>
 		</section>
         
-      <a href="logout.jsp">Logout</a>
+      <p align="center"><a href="logout.jsp">Logout</a></p>
+      </div>
 </body>
 </html>
