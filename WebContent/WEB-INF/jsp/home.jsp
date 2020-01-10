@@ -18,6 +18,7 @@
         	response.sendRedirect("login.jsp");
         }
      %>
+     
     <div class="header">
       <h1 id="site_name">E-Ticket Booking</h1>
       <p align="center">Welcome <%=email%></p>  

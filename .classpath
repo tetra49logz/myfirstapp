@@ -14,5 +14,30 @@
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="lib" path="C:/Users/Tetra_47/Downloads/jstl-api-1.2.jar/jstl-api-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/~ IT Softwares/J2EE Softwares/Softwares/Frameworks/Frameworks-master/jars/spring.4_hibernate.5/antlr-3.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/~ IT Softwares/J2EE Softwares/Softwares/Frameworks/Frameworks-master/jars/spring.4_hibernate.5/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/~ IT Softwares/J2EE Softwares/Softwares/Frameworks/Frameworks-master/jars/spring.4_hibernate.5/commons-logging.jar"/>
+	<classpathentry kind="lib" path="D:/~ IT Softwares/J2EE Softwares/Softwares/Frameworks/Frameworks-master/jars/spring.4_hibernate.5/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/~ IT Softwares/J2EE Softwares/Softwares/Frameworks/Frameworks-master/jars/spring.4_hibernate.5/hibernate-commons-annotations-5.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="D:/~ IT Softwares/J2EE Softwares/Softwares/Frameworks/Frameworks-master/jars/spring.4_hibernate.5/hibernate-core-5.0.4.Final.jar"/>
+	<classpathentry kind="lib" path="D:/~ IT Softwares/J2EE Softwares/Softwares/Frameworks/Frameworks-master/jars/spring.4_hibernate.5/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/~ IT Softwares/J2EE Softwares/Softwares/Frameworks/Frameworks-master/jars/spring.4_hibernate.5/javaee.jar"/>
+	<classpathentry kind="lib" path="D:/~ IT Softwares/J2EE Softwares/Softwares/Frameworks/Frameworks-master/jars/spring.4_hibernate.5/javassist-3.17.1-GA.jar"/>
+	<classpathentry kind="lib" path="D:/~ IT Softwares/J2EE Softwares/Softwares/Frameworks/Frameworks-master/jars/spring.4_hibernate.5/jboss-logging-3.3.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/~ IT Softwares/J2EE Softwares/Softwares/Frameworks/Frameworks-master/jars/spring.4_hibernate.5/jehm11-util.jar"/>
+	<classpathentry kind="lib" path="D:/~ IT Softwares/J2EE Softwares/Softwares/Frameworks/Frameworks-master/jars/spring.4_hibernate.5/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/~ IT Softwares/J2EE Softwares/Softwares/Frameworks/Frameworks-master/jars/spring.4_hibernate.5/mysql-connector-java-5.1.5-bin.jar"/>
+	<classpathentry kind="lib" path="D:/~ IT Softwares/J2EE Softwares/Softwares/Frameworks/Frameworks-master/jars/spring.4_hibernate.5/spring-aop-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/~ IT Softwares/J2EE Softwares/Softwares/Frameworks/Frameworks-master/jars/spring.4_hibernate.5/spring-beans-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/~ IT Softwares/J2EE Softwares/Softwares/Frameworks/Frameworks-master/jars/spring.4_hibernate.5/spring-context-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/~ IT Softwares/J2EE Softwares/Softwares/Frameworks/Frameworks-master/jars/spring.4_hibernate.5/spring-core-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/~ IT Softwares/J2EE Softwares/Softwares/Frameworks/Frameworks-master/jars/spring.4_hibernate.5/spring-dao-2.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/~ IT Softwares/J2EE Softwares/Softwares/Frameworks/Frameworks-master/jars/spring.4_hibernate.5/spring-expression-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/~ IT Softwares/J2EE Softwares/Softwares/Frameworks/Frameworks-master/jars/spring.4_hibernate.5/spring-instrument-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/~ IT Softwares/J2EE Softwares/Softwares/Frameworks/Frameworks-master/jars/spring.4_hibernate.5/spring-jdbc-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/~ IT Softwares/J2EE Softwares/Softwares/Frameworks/Frameworks-master/jars/spring.4_hibernate.5/spring-orm-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/~ IT Softwares/J2EE Softwares/Softwares/Frameworks/Frameworks-master/jars/spring.4_hibernate.5/spring-tx-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/~ IT Softwares/J2EE Softwares/Softwares/Frameworks/Frameworks-master/jars/spring.4_hibernate.5/spring-web-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/~ IT Softwares/J2EE Softwares/Softwares/Frameworks/Frameworks-master/jars/spring.4_hibernate.5/spring-webmvc-4.2.2.RELEASE.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

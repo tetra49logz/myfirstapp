@@ -10,49 +10,5 @@
     <welcome-file>default.jsp</welcome-file>
   </welcome-file-list>
   
-  <servlet>
-  	<servlet-name>LoginPage</servlet-name>
-  	<jsp-file>/WebContent/login.jsp</jsp-file>
-  </servlet>
-  <servlet-mapping>
-  	<servlet-name>LoginPage</servlet-name>
-  	<url-pattern>/login</url-pattern>
-  </servlet-mapping>
-  
-  <servlet>
-  	<servlet-name>HomePage</servlet-name>
-  	<jsp-file>/WebContent/home.jsp</jsp-file>
-  </servlet>
-  <servlet-mapping>
-  	<servlet-name>HomePage</servlet-name>
-  	<url-pattern>/home</url-pattern>
-  </servlet-mapping>
-  
-  <servlet>
-  	<servlet-name>LoginHandler</servlet-name>
-  	<jsp-file>/WebContent/loginHandler.jsp</jsp-file>
-  </servlet>
-  <servlet-mapping>
-  	<servlet-name>LoginHandler</servlet-name>
-  	<url-pattern>/loginHandler</url-pattern>
-  </servlet-mapping>
-
-   <servlet>
-  	<servlet-name>SearchBus</servlet-name>
-  	<jsp-file>/WebContent/searchBusJsp.jsp</jsp-file>
-  </servlet>
-  <servlet-mapping>
-  	<servlet-name>SearchBus</servlet-name>
-  	<url-pattern>/searchBus</url-pattern>
-  </servlet-mapping>
-  
-  <servlet>
-  	<servlet-name>Reserve</servlet-name>
-  	<jsp-file>/WebContent/reserve.jsp</jsp-file>
-  </servlet>
-  <servlet-mapping>
-  	<servlet-name>Reserve</servlet-name>
-  	<url-pattern>/reserve</url-pattern>
-  </servlet-mapping>
   
 </web-app>
