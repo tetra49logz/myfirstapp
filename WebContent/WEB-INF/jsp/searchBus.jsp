@@ -1,4 +1,4 @@
-<%@page import="com.ticket.SearhBus"%>
+<%@page import="com.ticket.util.SearhBus"%>
 <%@page import="java.sql.DriverManager"%>
 <%@page import="java.sql.SQLException"%>
 <%@page import="java.sql.ResultSet"%>

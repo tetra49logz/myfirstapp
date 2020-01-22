@@ -4,7 +4,6 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<link rel="stylesheet" href="bootstrap.css">
 <title>Login Page</title>
 </head>
 
@@ -38,7 +37,7 @@
 	
 	<h1>Enter Login Details</h1>
 	<div align="center" class="container">
-		<form action="loginHandler.jsp" method="post">
+		<form action="loginHandler" method="post">
             <table cellpadding="8">
             
                 <tr>
@@ -57,6 +56,7 @@
  
             </table>
         </form>
+        <a href="register"><button>Register</button></a>
 	</div>
 </body>
 </html>

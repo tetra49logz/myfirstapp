@@ -1,7 +1,7 @@
-<%@page import="com.ticket.LoginCheck"%>
+<%@page import="com.ticket.util.LoginCheck"%>
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
-<jsp:useBean id="loginBean" class="com.ticket.LoginBeanClass" scope="session"/>
+<jsp:useBean id="loginBean" class="com.ticket.util.LoginBeanClass" scope="session"/>
 <jsp:setProperty name="loginBean" property="*"/>
     
 <!DOCTYPE html>
