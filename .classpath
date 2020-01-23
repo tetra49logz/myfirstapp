@@ -43,7 +43,6 @@
 	<classpathentry kind="lib" path="D:/~ IT Softwares/J2EE Softwares/Softwares/Frameworks/Frameworks-master/jars/spring.4_hibernate.5/spring-tx-4.2.2.RELEASE.jar"/>
 	<classpathentry kind="lib" path="D:/~ IT Softwares/J2EE Softwares/Softwares/Frameworks/Frameworks-master/jars/spring.4_hibernate.5/spring-web-4.2.2.RELEASE.jar"/>
 	<classpathentry kind="lib" path="D:/~ IT Softwares/J2EE Softwares/Softwares/Frameworks/Frameworks-master/jars/spring.4_hibernate.5/spring-webmvc-4.2.2.RELEASE.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Tetra_47/Desktop/SingletonFactory.jar"/>
 	<classpathentry kind="lib" path="D:/~ IT Softwares/~Java Jars/jstl-1.2.jar"/>
 	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
 		<attributes>

@@ -17,7 +17,7 @@ public class TicketController
 	@Autowired
 	private UserDAO user_dao;
 	
-	@RequestMapping("/index")
+	@RequestMapping("/")
 	public String getIndexPage()
 	{
 		return "index";
