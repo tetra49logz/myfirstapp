@@ -17,17 +17,17 @@
 			if(result.equals("true"))
 			{
 				session.setAttribute("email",loginBean.getEmail());
-				response.sendRedirect("home.jsp");
+				response.sendRedirect("home");
 			}
 		 
 			if(result.equals("false"))
 			{
-				response.sendRedirect("login.jsp?status=false");
+				response.sendRedirect("login?status=false");
 			}
 		 
 			if(result.equals("error"))
 			{
-		    	response.sendRedirect("login.jsp?status=error");
+		    	response.sendRedirect("login?status=error");
 			}
 		%>
 		

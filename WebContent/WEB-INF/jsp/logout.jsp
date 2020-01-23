@@ -12,7 +12,7 @@
 
 	<%
 		session.invalidate();
-		response.sendRedirect("home.jsp");
+		response.sendRedirect("home");
 	%>
 	
 </body>
