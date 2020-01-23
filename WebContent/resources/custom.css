@@ -1,0 +1,13 @@
+@charset "ISO-8859-1";
+
+.quick-sand {
+	font-family: 'Quicksand', sans-serif;
+}
+
+.height {
+	min-height: 100vh;
+}
+
+td, tr {
+	align-content: center;
+}
